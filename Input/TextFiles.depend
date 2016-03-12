@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1453158447 source:c:\users\ali abdulla\desktop\cpp\textfiles\fil.cpp
+
+1453161548 source:c:\users\ali abdulla\desktop\cpp\textfiles\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cstring>
+
+1453158447 source:c:\users\ali abdulla\desktop\textfiles\fil.cpp
+
+1457807709 source:c:\users\ali abdulla\desktop\textfiles\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cstring>
+

@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1457806717 source:c:\users\ali abdulla\desktop\cpp\calculator\quiz.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"Quiz.h"
+	"QuizResult.h"
+
+1457804188 c:\users\ali abdulla\desktop\cpp\calculator\quiz.h
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"QuizResult.h"
+
+1454975643 c:\users\ali abdulla\desktop\cpp\calculator\quizresult.h
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+
+1456183709 source:c:\users\ali abdulla\desktop\cpp\calculator\quizresult.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"QuizResult.h"
+	"Quiz.h"
+
+1457806667 source:c:\users\ali abdulla\desktop\cpp\calculator\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"QuizResult.h"
+	"Quiz.h"
+
